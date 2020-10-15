@@ -13,3 +13,4 @@ http://linkedin.com/in/ialimustafa
 
 #PythonBasics by Ali Mustafa 
 #visit http://ialimustafa.com for more information
+Self made python programmer and learned amazing stuff during this course.
